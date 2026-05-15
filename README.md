@@ -1,5 +1,7 @@
 # Uber Data Analysis using Python
 
+Exploratory Data Analysis project on Uber ride booking data using Python and data visualization libraries to identify ride trends and user behavior patterns.
+
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on Uber ride data to understand ride patterns based on category, purpose, time, day, month, and distance travelled.
 
