@@ -54,6 +54,36 @@ The analysis answers real-world business questions such as:
 
 ---
 
+## 📈 Data Visualizations
+
+### Category Analysis
+Shows the distribution of Uber rides across Business and Personal categories.
+
+![Category Analysis](category-count-analysis.png)
+
+---
+
+### Purpose Analysis
+Displays the most common purposes for Uber ride bookings.
+
+![Purpose Analysis](purpose-count-analysis.png)
+
+---
+
+### Day-Night Ride Analysis
+Visualizes ride frequency across different time periods of the day.
+
+![Day Night Analysis](day-night-analysis.png)
+
+---
+
+### Monthly Ride Trends
+Displays monthly ride count trends and travel patterns.
+
+![Monthly Trends](monthly-trends-analysis.png)
+
+---
+
 ## 📊 Key Insights
 - Business category accounts for the majority of Uber rides
 - Most rides are booked for work-related purposes
